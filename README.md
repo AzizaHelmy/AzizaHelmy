@@ -1,11 +1,12 @@
-### Hi there 👋 I am Aziza,
-An Android developer  :octocat:
-
+<h1 align="center"> Hi there 👋, I am Aziza </h1>
+<h3 align="center">An Android developer  :octocat: </h3>
 
 <!-- **AzizaHelmy/AzizaHelmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-![](https://komarev.com/ghpvc/?username=AzizaHelmy)
+<!-- 
+<p align="center"> -->
+  ![](https://komarev.com/ghpvc/?username=AzizaHelmy)
 
 - 🔭 I'm currently a Student in Information Technology Institute (ITI)
 - 🌱 I’m currently learning ...
