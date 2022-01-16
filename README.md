@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I am Aziza </h1>
+<h1 align="center"> Hi there 👋, I'm Aziza </h1>
 <h3 align="center">An Android developer  :octocat: </h3>
 
 <!-- **AzizaHelmy/AzizaHelmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
