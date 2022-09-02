@@ -8,10 +8,10 @@ Here are some ideas to get you started: -->
 <p align="center"> -->
   ![](https://komarev.com/ghpvc/?username=AzizaHelmy)
 
-- 🔭 I'm currently a Student in Information Technology Institute (ITI)
+- 🔭 i'm recently graduated from ITI (Information Technology Institute)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on any Android Open Source Project<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Android development, I may be able to answer
+- 💬 Ask me about java, Kotlin and Android development
 - 📫 How to reach me: [ LinkedIn ](https://www.linkedin.com/in/aziza-helmy/)
 <!-- -   [<img    src="https://user-images.githubusercontent.com/53878861/138725825-a1043b15-7b25-47c9-8635-419ef5aa0ff1.png"  width="25" height="25" >](https://www.linkedin.com/in/aziza-helmy/) -->
 <!-- - 😄 Pronouns: She/Her -->
